@@ -28,7 +28,7 @@ const PenetrationTestingPt = () => (
       <meta property="article:modified_time" content="2021-01-11T10:52:43+00:00" />
       <meta property="og:image:width" content="1824" />
       <meta property="og:image:height" content="596" />
-      <meta property="og:url" content="https://irmcon-staging.netlify.app/penetration-testing-pt/" />
+      <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/penetration-testing-pt/" />
       <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
       <meta property="og:description" content="Penetration testing, or pen testing, is a method used by security professionals to simulate an attack from a malicious hacker. We provide penetration testing services to test the security of an organization's network and applications, pro-actively identifying vulnerabilities that can be exploited by an attacker." />
       <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -37,7 +37,7 @@ const PenetrationTestingPt = () => (
       <meta property="twitter:description" content="Penetration testing, or pen testing, is a method used by security professionals to simulate an attack from a malicious hacker. We provide penetration testing services to test the security of an organization's network and applications, pro-actively identifying vulnerabilities that can be exploited by an attacker." />
       <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
       <meta property="twitter:site" content="IRM Consulting & Advisory" />
-      <link rel="canonical" href="https://irmcon-staging.netlify.app/penetration-testing-pt/" />
+      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/penetration-testing-pt/" />
     </Helmet>
 
     <section className="page-title-sec" style={{ background: `url(${homepagebanner1})` }}>

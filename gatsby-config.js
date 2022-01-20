@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://irmcon-staging.netlify.app/`,
+    siteUrl: `https://elated-swanson-224ee1.netlify.app/`,
   },
   plugins: [
     /*
@@ -127,8 +127,8 @@ module.exports = {
     // {
     //   resolve: 'gatsby-plugin-robots-txt',
     //   options: {
-    //     host: 'https://irmcon-staging.netlify.app/',
-    //     sitemap: 'https://irmcon-staging.netlify.app/sitemap-0.xml',
+    //     host: 'https://elated-swanson-224ee1.netlify.app/',
+    //     sitemap: 'https://elated-swanson-224ee1.netlify.app/sitemap-0.xml',
     //     policy: [{ userAgent: '*', allow: '/' }]
     //   }
     // },

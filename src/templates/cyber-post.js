@@ -31,7 +31,7 @@ const CyberPost = ({ data }) => {
         <meta property="og:image:width" content="1824" />
         <meta property="og:image:height" content="596" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={`https://irmcon-staging.netlify.app/cybersecurity-training-awareness/${post.slug}/`} />
+        <meta property="og:url" content={`https://elated-swanson-224ee1.netlify.app/cybersecurity-training-awareness/${post.slug}/`} />
         <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
         <meta property="og:description" content={post.allBlog.metaDescription} />
         <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -40,7 +40,7 @@ const CyberPost = ({ data }) => {
         <meta property="twitter:description" content={post.allBlog.metaDescription} />
         <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
         <meta property="twitter:site" content="IRM Consulting & Advisory" />
-        <link rel="canonical" href={`https://irmcon-staging.netlify.app/cybersecurity-training-awareness/${post.slug}/`} />
+        <link rel="canonical" href={`https://elated-swanson-224ee1.netlify.app/cybersecurity-training-awareness/${post.slug}/`} />
       </Helmet>
       <section className="page-title-sec" style={{ backgroundImage: `url(${bgtitle})` }}>
         <div className="auto-container">

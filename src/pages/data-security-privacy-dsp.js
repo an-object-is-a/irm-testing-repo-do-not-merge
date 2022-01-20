@@ -26,7 +26,7 @@ const DataSecurityPrivacyDSP = () => (
       <meta property="og:image:width" content="1824" />
       <meta property="og:image:height" content="596" />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://irmcon-staging.netlify.app/data-security-privacy-dsp/" />
+      <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/data-security-privacy-dsp/" />
       <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
       <meta property="og:description" content="IRM Consulting & Advisory can help with protecting data security and privacy of your customer’s Personal Identifiable Information (PII) and Personal Health Information (PHI). Our services will help you ensure compliance with GDPR, HIPAA, PIPEDA, and other privacy and data security regulations." />
       <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -35,7 +35,7 @@ const DataSecurityPrivacyDSP = () => (
       <meta property="twitter:description" content="IRM Consulting & Advisory can help with protecting data security and privacy of your customer’s Personal Identifiable Information (PII) and Personal Health Information (PHI). Our services will help you ensure compliance with GDPR, HIPAA, PIPEDA, and other privacy and data security regulations." />
       <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
       <meta property="twitter:site" content="IRM Consulting & Advisory" />
-      <link rel="canonical" href="https://irmcon-staging.netlify.app/data-security-privacy-dsp/" />
+      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/data-security-privacy-dsp/" />
     </Helmet>
 
     <section className="page-title-sec" style={{ background: `url(${homepagebanner1})` }}>

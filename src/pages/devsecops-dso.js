@@ -30,7 +30,7 @@ const DevSecOpsDSO = () => (
       <meta property="article:modified_time" content="2021-01-11T10:52:43+00:00" />
       <meta property="og:image:width" content="1824" />
       <meta property="og:image:height" content="596" />
-      <meta property="og:url" content="https://irmcon-staging.netlify.app/devsecops-dso/" />
+      <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/devsecops-dso/" />
       <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
       <meta property="og:description" content="Need DevSecOps Consulting Services? DevSecOps accelerates the pace of digital business, but the constant change to production introduces considerable security threats and risk to business operations and regulatory compliance." />
       <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -39,7 +39,7 @@ const DevSecOpsDSO = () => (
       <meta property="twitter:description" content="Need DevSecOps Consulting Services? DevSecOps accelerates the pace of digital business, but the constant change to production introduces considerable security threats and risk to business operations and regulatory compliance." />
       <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
       <meta property="twitter:site" content="IRM Consulting & Advisory" />
-      <link rel="canonical" href="https://irmcon-staging.netlify.app/devsecops-dso/" />
+      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/devsecops-dso/" />
     </Helmet>
 
     <section className="page-title-sec" style={{ background: `url(${homepagebanner1})` }}>

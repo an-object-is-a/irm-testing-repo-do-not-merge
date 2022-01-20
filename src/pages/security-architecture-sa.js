@@ -27,7 +27,7 @@ const SecurityArchitectureSa = () => (
       <meta property="article:modified_time" content="2021-01-11T10:52:43+00:00" />
       <meta property="og:image:width" content="1824" />
       <meta property="og:image:height" content="596" />
-      <meta property="og:url" content="https://irmcon-staging.netlify.app/security-architecture-sa/" />
+      <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/security-architecture-sa/" />
       <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
       <meta property="og:description" content="IRM Consulting & Advisory, one of the leading cybersecurity companies in Canada offers exceptional Security Architecture Advisory and Services. Our team of security experts will you give you the best Security Architecture Advisory and Services." />
       <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -36,7 +36,7 @@ const SecurityArchitectureSa = () => (
       <meta property="twitter:description" content="IRM Consulting & Advisory, one of the leading cybersecurity companies in Canada offers exceptional Security Architecture Advisory and Services. Our team of security experts will you give you the best Security Architecture Advisory and Services." />
       <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
       <meta property="twitter:site" content="IRM Consulting & Advisory" />
-      <link rel="canonical" href="https://irmcon-staging.netlify.app/security-architecture-sa/" />
+      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/security-architecture-sa/" />
     </Helmet>
 
     <section className="page-title-sec" style={{ background: `url(${homepagebanner1})` }}>

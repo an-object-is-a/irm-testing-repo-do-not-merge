@@ -27,7 +27,7 @@ const GovernanceRiskCompliance = () => (
       <meta property="article:modified_time" content="2021-01-11T10:52:43+00:00" />
       <meta property="og:image:width" content="1824" />
       <meta property="og:image:height" content="596" />
-      <meta property="og:url" content="https://irmcon-staging.netlify.app/governance-risk-compliance-grc/" />
+      <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/governance-risk-compliance-grc/" />
       <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
       <meta property="og:description" content="Security Governance, Risk, and Compliance (GRC) frameworks help an organization align its information technology, security with business objectives while managing risk and meeting regulatory compliance requirements." />
       <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -36,7 +36,7 @@ const GovernanceRiskCompliance = () => (
       <meta property="twitter:description" content="Security Governance, Risk, and Compliance (GRC) frameworks help an organization align its information technology, security with business objectives while managing risk and meeting regulatory compliance requirements." />
       <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
       <meta property="twitter:site" content="IRM Consulting & Advisory" />
-      <link rel="canonical" href="https://irmcon-staging.netlify.app/governance-risk-compliance-grc/" />
+      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/governance-risk-compliance-grc/" />
     </Helmet>
     <section className="page-title-sec" style={{ background: `url(${homepagebanner1})` }}>
       <div className="auto-container">

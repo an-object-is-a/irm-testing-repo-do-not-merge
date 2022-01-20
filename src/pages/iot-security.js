@@ -28,7 +28,7 @@ const IotSecurity = () => (
       <meta property="article:modified_time" content="2021-01-11T10:52:43+00:00" />
       <meta property="og:image:width" content="1824" />
       <meta property="og:image:height" content="596" />
-      <meta property="og:url" content="https://irmcon-staging.netlify.app/iot-security/" />
+      <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/iot-security/" />
       <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
       <meta property="og:description" content="The Internet of Things (IoT) - Worried about IoT Security? Talk to our Cybersecurity Trusted Advisor’s to learn how you can effectively mitigate these Security Threats and Risks." />
       <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -37,7 +37,7 @@ const IotSecurity = () => (
       <meta property="twitter:description" content="The Internet of Things (IoT) - Worried about IoT Security? Talk to our Cybersecurity Trusted Advisor’s to learn how you can effectively mitigate these Security Threats and Risks." />
       <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
       <meta property="twitter:site" content="IRM Consulting & Advisory" />
-      <link rel="canonical" href="https://irmcon-staging.netlify.app/iot-security/" />
+      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/iot-security/" />
     </Helmet>
 
     <section className="page-title-sec" style={{ background: `url(${homepagebanner1})` }}>

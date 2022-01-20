@@ -33,7 +33,7 @@ export default function BlogPosts({ data }) {
         <meta property="og:image:width" content="1824" />
         <meta property="og:image:height" content="596" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://irmcon-staging.netlify.app/blog/" />
+        <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/blog/" />
         <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
         <meta property="og:description" content="Welcome to IRM Consulting & Advisory Blogs" />
         <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -42,7 +42,7 @@ export default function BlogPosts({ data }) {
         <meta property="twitter:description" content="Welcome to IRM Consulting & Advisory Blogs" />
         <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
         <meta property="twitter:site" content="IRM Consulting & Advisory" />
-        <link rel="canonical" href="https://irmcon-staging.netlify.app/blog/" />
+        <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/blog/" />
       </Helmet>
       <AllBlog parentBlogs={data} />
       <Logos />

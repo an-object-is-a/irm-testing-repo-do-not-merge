@@ -33,7 +33,7 @@ const HomePage = () => {
         <meta property="article:modified_time" content="2021-01-11T10:52:43+00:00" />
         <meta property="og:image:width" content="1824" />
         <meta property="og:image:height" content="596" />
-        <meta property="og:url" content="https://irmcon-staging.netlify.app/" />
+        <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/" />
         <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
         <meta property="og:description" content="IRM Consulting & Advisory is a boutique cybersecurity business obsessed with implementing security services and security best practices to help create a competitive advantage for SaaS Companies." />
         <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -42,7 +42,7 @@ const HomePage = () => {
         <meta property="twitter:description" content="IRM Consulting & Advisory is a boutique cybersecurity business obsessed with implementing security services and security best practices to help create a competitive advantage for SaaS Companies." />
         <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
         <meta property="twitter:site" content="IRM Consulting & Advisory" />
-        <link rel="canonical" href="https://irmcon-staging.netlify.app/" />
+        <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/" />
       </Helmet>
 
       <HomeSlider />

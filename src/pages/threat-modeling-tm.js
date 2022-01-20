@@ -29,7 +29,7 @@ const ThreatModelingTm = () => (
       <meta property="article:modified_time" content="2021-01-11T10:52:43+00:00" />
       <meta property="og:image:width" content="1824" />
       <meta property="og:image:height" content="596" />
-      <meta property="og:url" content="https://irmcon-staging.netlify.app/threat-modeling-tm/" />
+      <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/threat-modeling-tm/" />
       <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
       <meta property="og:description" content="Without Threat Modeling, your security is a gamble—and in today’s business environment, your SaaS Products & Services are sure to be exposed to Business Loss." />
       <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -38,7 +38,7 @@ const ThreatModelingTm = () => (
       <meta property="twitter:description" content="Without Threat Modeling, your security is a gamble—and in today’s business environment, your SaaS Products & Services are sure to be exposed to Business Loss." />
       <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
       <meta property="twitter:site" content="IRM Consulting & Advisory" />
-      <link rel="canonical" href="https://irmcon-staging.netlify.app/threat-modeling-tm/" />
+      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/threat-modeling-tm/" />
     </Helmet>
 
     <section className="page-title-sec" style={{ background: `url(${homepagebanner1})` }}>

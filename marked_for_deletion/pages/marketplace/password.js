@@ -31,7 +31,7 @@ const Password = () => (
       <meta property="article:modified_time" content="2021-01-11T10:52:43+00:00" />
       <meta property="og:image:width" content="1824" />
       <meta property="og:image:height" content="596" />
-      <meta property="og:url" content="https://irmcon-staging.netlify.app/marketplace/password/" />
+      <meta property="og:url" content="https://elated-swanson-224ee1.netlify.app/marketplace/password/" />
       <meta property="og:title" content="IRM Consulting & Advisory - Cybersecurity Consulting for your SaaS Business" />
       <meta property="og:description" content="IRM Consulting & Advisory - Password Management | Explore our Marketplace for FREE Security Solutions and Tools for your Business" />
       <meta property="og:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
@@ -40,7 +40,7 @@ const Password = () => (
       <meta property="twitter:description" content="IRM Consulting & Advisory - Password Management | Explore our Marketplace for FREE Security Solutions and Tools for your Business" />
       <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
       <meta property="twitter:site" content="IRM Consulting & Advisory" />
-      <link rel="canonical" href="https://irmcon-staging.netlify.app/marketplace/password/" />
+      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/marketplace/password/" />
     </Helmet>
 
     <section
