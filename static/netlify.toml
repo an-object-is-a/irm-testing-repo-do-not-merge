@@ -1,0 +1,11 @@
+[[redirects]]
+from = "/index.html"
+to = "/blog"
+status = 301
+force = false
+
+[[redirects]]
+from = "/blog"
+to = "/"
+status = 301
+force = false
