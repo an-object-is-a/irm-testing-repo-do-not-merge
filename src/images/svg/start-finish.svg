@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="802.031" height="452" viewBox="0 0 802.031 452">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_12338" data-name="Path 12338" d="M0,0H802.03V451.142H0" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_12340" data-name="Path 12340" d="M0,0H802.03V451.142H0" transform="translate(0)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="Rectangle_2048" data-name="Rectangle 2048" width="802" height="452" transform="translate(0.015 -0.429)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_8137" data-name="Group 8137" transform="translate(-305.985 -4359)">
+    <g id="Group_8136" data-name="Group 8136">
+      <g id="Group_8135" data-name="Group 8135" transform="translate(4984.985 1604.429)">
+        <g id="Group_8134" data-name="Group 8134" transform="translate(-4679 2755)">
+          <g id="Group_8103" data-name="Group 8103" transform="translate(0)">
+            <g id="Group_8102" data-name="Group 8102" clip-path="url(#clip-path)">
+              <path id="Path_12337" data-name="Path 12337" d="M169.329,233.205h-.075a36.205,36.205,0,0,1,10.769-25.79,37.149,37.149,0,0,1,52,0,36.177,36.177,0,0,1,0,51.505l10.919,10.819a51.355,51.355,0,0,0,0-73.068,52.494,52.494,0,0,0-73.837,0,51.184,51.184,0,0,0-15.264,36.534h0V453.237h15.489Z" transform="translate(-25.315 -29.865)" fill="#42afb6" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <g id="Group_8105" data-name="Group 8105" transform="translate(0)">
+            <g id="Group_8104" data-name="Group 8104" transform="translate(0)" clip-path="url(#clip-path-2)">
+              <path id="Path_12339" data-name="Path 12339" d="M307.173,284.969a36.3,36.3,0,0,1,0,51.622,36.866,36.866,0,0,1-51.931,0,36.3,36.3,0,0,1,0-51.622L244.314,274.2a51.555,51.555,0,0,0,0,73.235,52.494,52.494,0,0,0,73.787,0,51.555,51.555,0,0,0,0-73.235h0Z" transform="translate(-37.691 -45.12)" fill="#fcb414" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <g id="Group_8107" data-name="Group 8107" transform="translate(0)">
+            <g id="Group_8106" data-name="Group 8106" transform="translate(0)" clip-path="url(#clip-path-2)">
+              <path id="Path_12341" data-name="Path 12341" d="M330.481,259.01a36.227,36.227,0,0,1,0-51.564,36.9,36.9,0,0,1,51.931,0,36.227,36.227,0,0,1,0,51.564L393.34,269.77a51.455,51.455,0,0,0,0-73.152,52.525,52.525,0,0,0-73.787,0,51.455,51.455,0,0,0,0,73.152h0Z" transform="translate(-50.072 -29.863)" fill="#cb1b4a" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <g id="Group_8109" data-name="Group 8109" transform="translate(0)">
+            <g id="Group_8108" data-name="Group 8108" transform="translate(0)" clip-path="url(#clip-path-2)">
+              <path id="Path_12343" data-name="Path 12343" d="M769.515,274.6h.075a36.224,36.224,0,0,1-10.769,25.8,37.133,37.133,0,0,1-52,0,36.207,36.207,0,0,1,0-51.53L695.9,238.045a51.385,51.385,0,0,0,0,73.093,52.478,52.478,0,0,0,73.837,0A51.2,51.2,0,0,0,785,274.6h0V54.48H769.515Z" transform="translate(-112.001 -8.965)" fill="#007a7d" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <g id="Group_8111" data-name="Group 8111" transform="translate(0)">
+            <g id="Group_8110" data-name="Group 8110" clip-path="url(#clip-path-2)">
+              <path id="Path_12345" data-name="Path 12345" d="M457.773,284.969a36.3,36.3,0,0,1,0,51.622,36.866,36.866,0,0,1-51.931,0,36.3,36.3,0,0,1,0-51.622L394.914,274.2a51.555,51.555,0,0,0,0,73.235,52.494,52.494,0,0,0,73.787,0,51.555,51.555,0,0,0,0-73.235h0Z" transform="translate(-62.472 -45.12)" fill="#074d67" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <g id="Group_8113" data-name="Group 8113" transform="translate(0)">
+            <g id="Group_8112" data-name="Group 8112" clip-path="url(#clip-path)">
+              <path id="Path_12347" data-name="Path 12347" d="M481.2,259.01a36.227,36.227,0,0,1,0-51.564,36.9,36.9,0,0,1,51.932,0,36.227,36.227,0,0,1,0,51.564L544.06,269.77a51.455,51.455,0,0,0,0-73.152,52.525,52.525,0,0,0-73.787,0,51.455,51.455,0,0,0,0,73.152h0Z" transform="translate(-74.873 -29.863)" fill="#c2c923" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <g id="Group_8115" data-name="Group 8115" transform="translate(0)">
+            <g id="Group_8114" data-name="Group 8114" clip-path="url(#clip-path-2)">
+              <path id="Path_12349" data-name="Path 12349" d="M608.133,284.969a36.3,36.3,0,0,1,0,51.622,36.866,36.866,0,0,1-51.932,0,36.3,36.3,0,0,1,0-51.622L545.274,274.2a51.555,51.555,0,0,0,0,73.235,52.494,52.494,0,0,0,73.787,0,51.555,51.555,0,0,0,0-73.235h0Z" transform="translate(-87.214 -45.12)" fill="#cb1b4a" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <g id="Group_8117" data-name="Group 8117" transform="translate(0)">
+            <g id="Group_8116" data-name="Group 8116" transform="translate(0)" clip-path="url(#clip-path-2)">
+              <path id="Path_12351" data-name="Path 12351" d="M631.561,259.01a36.227,36.227,0,0,1,0-51.564,36.9,36.9,0,0,1,51.932,0,36.227,36.227,0,0,1,0,51.564L694.42,269.77a51.455,51.455,0,0,0,0-73.152,52.525,52.525,0,0,0-73.787,0,51.455,51.455,0,0,0,0,73.152h0Z" transform="translate(-99.615 -29.863)" fill="#42afb6" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <circle id="Ellipse_798" data-name="Ellipse 798" cx="25.765" cy="25.765" r="25.765" transform="translate(280.61 177.95)" fill="#981437"/>
+          <g id="Group_8119" data-name="Group 8119" transform="translate(0)">
+            <g id="Group_8118" data-name="Group 8118" transform="translate(0)" clip-path="url(#clip-path-9)">
+              <text id="_3" data-name="3" transform="translate(299.141 212.545)" fill="#fff" font-size="25" font-family="Helvetica"><tspan x="0" y="0">3</tspan></text>
+              <text id="_3-2" data-name="3" transform="translate(299.141 212.545)" stroke="#fff" stroke-miterlimit="10" stroke-width="0.857" font-size="25" font-family="Helvetica" fill="none"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+          <circle id="Ellipse_799" data-name="Ellipse 799" cx="25.765" cy="25.765" r="25.765" transform="translate(155.293 177.95)" fill="#318388"/>
+          <g id="Group_8121" data-name="Group 8121" transform="translate(0)">
+            <g id="Group_8120" data-name="Group 8120" transform="translate(0)" clip-path="url(#clip-path-9)">
+              <text id="_1" data-name="1" transform="translate(173.798 212.545)" fill="#fff" font-size="25" font-family="Helvetica"><tspan x="0" y="0">1</tspan></text>
+              <text id="_1-2" data-name="1" transform="translate(173.798 212.545)" stroke="#fff" stroke-miterlimit="10" stroke-width="0.857" font-size="25" font-family="Helvetica" fill="none"><tspan x="0" y="0">1</tspan></text>
+            </g>
+          </g>
+          <circle id="Ellipse_800" data-name="Ellipse 800" cx="25.765" cy="25.765" r="25.765" transform="translate(531.245 177.95)" fill="#318388"/>
+          <g id="Group_8123" data-name="Group 8123" transform="translate(0)">
+            <g id="Group_8122" data-name="Group 8122" transform="translate(0)" clip-path="url(#clip-path-9)">
+              <text id="_7" data-name="7" transform="translate(549.808 212.545)" fill="#fff" font-size="25" font-family="Helvetica"><tspan x="0" y="0">7</tspan></text>
+              <text id="_7-2" data-name="7" transform="translate(549.808 212.545)" stroke="#fff" stroke-miterlimit="10" stroke-width="0.857" font-size="25" font-family="Helvetica" fill="none"><tspan x="0" y="0">7</tspan></text>
+            </g>
+          </g>
+          <circle id="Ellipse_801" data-name="Ellipse 801" cx="25.765" cy="25.765" r="25.765" transform="translate(405.928 177.95)" fill="#91971a"/>
+          <g id="Group_8125" data-name="Group 8125" transform="translate(0)">
+            <g id="Group_8124" data-name="Group 8124" transform="translate(0)" clip-path="url(#clip-path-9)">
+              <text id="_5" data-name="5" transform="translate(424.475 212.545)" fill="#fff" font-size="25" font-family="Helvetica"><tspan x="0" y="0">5</tspan></text>
+              <text id="_5-2" data-name="5" transform="translate(424.475 212.545)" stroke="#fff" stroke-miterlimit="10" stroke-width="0.857" font-size="25" font-family="Helvetica" fill="none"><tspan x="0" y="0">5</tspan></text>
+            </g>
+          </g>
+          <circle id="Ellipse_802" data-name="Ellipse 802" cx="25.765" cy="25.765" r="25.765" transform="translate(217.952 240.609)" fill="#c98c03"/>
+          <g id="Group_8127" data-name="Group 8127" transform="translate(0)">
+            <g id="Group_8126" data-name="Group 8126" transform="translate(0)" clip-path="url(#clip-path-9)">
+              <text id="_2" data-name="2" transform="translate(236.482 275.22)" fill="#fff" font-size="25" font-family="Helvetica"><tspan x="0" y="0">2</tspan></text>
+              <text id="_2-2" data-name="2" transform="translate(236.482 275.22)" stroke="#fff" stroke-miterlimit="10" stroke-width="0.857" font-size="25" font-family="Helvetica" fill="none"><tspan x="0" y="0">2</tspan></text>
+            </g>
+          </g>
+          <ellipse id="Ellipse_803" data-name="Ellipse 803" cx="25.715" cy="25.765" rx="25.715" ry="25.765" transform="translate(344.973 240.609)" fill="#032634"/>
+          <g id="Group_8129" data-name="Group 8129" transform="translate(0)">
+            <g id="Group_8128" data-name="Group 8128" transform="translate(0)" clip-path="url(#clip-path-9)">
+              <text id="_4" data-name="4" transform="translate(363.478 275.22)" fill="#fff" font-size="25" font-family="Helvetica"><tspan x="0" y="0">4</tspan></text>
+              <text id="_4-2" data-name="4" transform="translate(363.478 275.22)" stroke="#fff" stroke-miterlimit="10" stroke-width="0.857" font-size="25" font-family="Helvetica" fill="none"><tspan x="0" y="0">4</tspan></text>
+            </g>
+          </g>
+          <ellipse id="Ellipse_804" data-name="Ellipse 804" cx="25.715" cy="25.765" rx="25.715" ry="25.765" transform="translate(467.784 240.609)" fill="#981437"/>
+          <g id="Group_8131" data-name="Group 8131" transform="translate(0)">
+            <g id="Group_8130" data-name="Group 8130" transform="translate(0)" clip-path="url(#clip-path-9)">
+              <text id="_6" data-name="6" transform="translate(486.314 275.22)" fill="#fff" font-size="25" font-family="Helvetica"><tspan x="0" y="0">6</tspan></text>
+              <text id="_6-2" data-name="6" transform="translate(486.314 275.22)" stroke="#fff" stroke-miterlimit="10" stroke-width="0.857" font-size="25" font-family="Helvetica" fill="none"><tspan x="0" y="0">6</tspan></text>
+            </g>
+          </g>
+          <circle id="Ellipse_805" data-name="Ellipse 805" cx="25.765" cy="25.765" r="25.765" transform="translate(594.706 240.609)" fill="#005c5e"/>
+          <g id="Group_8133" data-name="Group 8133" transform="translate(0)">
+            <g id="Group_8132" data-name="Group 8132" transform="translate(0)" clip-path="url(#clip-path-9)">
+              <text id="_8" data-name="8" transform="translate(613.311 275.22)" fill="#fff" font-size="25" font-family="Helvetica"><tspan x="0" y="0">8</tspan></text>
+              <text id="_8-2" data-name="8" transform="translate(613.311 275.22)" stroke="#fff" stroke-miterlimit="10" stroke-width="0.857" font-size="25" font-family="Helvetica" fill="none"><tspan x="0" y="0">8</tspan></text>
+            </g>
+          </g>
+        </g>
+        <text id="START" transform="translate(-4612.985 3178.571)" fill="#10b5df" font-size="16" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">START</tspan></text>
+        <text id="FINISH" transform="translate(-3990.985 2812.571)" fill="#10b5df" font-size="16" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">FINISH</tspan></text>
+        <text id="Discover_Critical_Assets" data-name="Discover
+Critical Assets" transform="translate(-4499.985 2871.571)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-31.685" y="0">Discover</tspan><tspan x="-51.833" y="18">Critical Assets</tspan></text>
+        <text id="Assess_Risk_Impact" data-name="Assess Risk
+&amp; Impact" transform="translate(-4434.985 3100.571)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-44.198" y="0">Assess Risk</tspan><tspan x="-31.674" y="18">&amp; Impact</tspan></text>
+        <text id="Mitigate_with_effective_Solutions" data-name="Mitigate with
+effective
+Solutions" transform="translate(-4306.985 3100.571)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-45.414" y="0">Mitigate with</tspan><tspan x="-30.432" y="18">effective</tspan><tspan x="-34.164" y="36">Solutions</tspan></text>
+        <text id="Governance_Framework" data-name="Governance
+Framework" transform="translate(-4180.985 3100.571)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-43.352" y="0">Governance</tspan><tspan x="-40.016" y="18">Framework</tspan></text>
+        <text id="Sustainability" transform="translate(-4048.985 3100.571)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-48.761" y="0">Sustainability</tspan></text>
+        <text id="Prioritize_based_on_Risk" data-name="Prioritize
+based on
+Risk" transform="translate(-4371.985 2849.571)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-32.091" y="0">Prioritize</tspan><tspan x="-32.922" y="18">based on</tspan><tspan x="-15.842" y="36">Risk</tspan></text>
+        <text id="Automate_Operationalize_Security_Controls" data-name="Automate &amp;
+Operationalize
+Security Controls" transform="translate(-4246.985 2849.571)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-42.085" y="0">Automate &amp;</tspan><tspan x="-51.68" y="18">Operationalize</tspan><tspan x="-62.512" y="36">Security Controls</tspan></text>
+        <text id="Control_Testing_Assurance" data-name="Control
+Testing &amp;
+Assurance" transform="translate(-4110.985 2849.571)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-26.66" y="0">Control</tspan><tspan x="-33.615" y="18">Testing &amp;</tspan><tspan x="-38.353" y="36">Assurance</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

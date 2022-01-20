@@ -1,0 +1,44 @@
+{
+  "name": "my-new-gatsby",
+  "version": "1.1.0",
+  "private": true,
+  "description": "My New Gatsby",
+  "author": "Mohsin Habib, an-object-is-a",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@loadable/component": "^5.15.2",
+    "ansi-regex": "^6.0.1",
+    "browserslist": "^4.19.1",
+    "gatsby": "^4.4.0",
+    "gatsby-plugin-google-gtag": "^4.5.0",
+    "gatsby-plugin-image": "^2.5.0",
+    "gatsby-plugin-manifest": "^4.5.1",
+    "gatsby-plugin-react-helmet": "^5.5.0",
+    "gatsby-plugin-robots-txt": "^1.7.0",
+    "gatsby-plugin-sharp": "^4.5.0",
+    "gatsby-plugin-sitemap": "^5.5.0",
+    "gatsby-source-filesystem": "^4.5.0",
+    "gatsby-source-wordpress": "^6.5.0",
+    "gatsby-transformer-sharp": "^4.5.0",
+    "immer": "^9.0.12",
+    "nth-check": "^2.0.1",
+    "object-path": "^0.11.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-google-recaptcha": "^2.1.0",
+    "react-helmet": "^6.1.0",
+    "react-responsive-carousel": "^3.2.22",
+    "react-reveal": "^1.2.2",
+    "reactstrap": "^9.0.1",
+    "ws": "^8.4.2"
+  }
+}

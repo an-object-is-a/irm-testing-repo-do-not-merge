@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="Group_1498" data-name="Group 1498" transform="translate(0.034)">
+    <g id="facebook-app-symbol" transform="translate(8.71 6.126)">
+      <path id="f_1_" d="M40.913,10.747v-4.9h1.645L42.8,3.934H40.913V2.715c0-.553.153-.93.947-.93h1.011V.075A13.71,13.71,0,0,0,41.4,0,2.3,2.3,0,0,0,38.94,2.525V3.934H37.29V5.845h1.65v4.9Z" transform="translate(-37.29)" fill="#10b5df"/>
+    </g>
+    <g id="Ellipse_109" data-name="Ellipse 109" transform="translate(-0.034)" fill="none" stroke="#10b5df" stroke-width="1">
+      <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+      <circle cx="11.5" cy="11.5" r="11" fill="none"/>
+    </g>
+  </g>
+</svg>
