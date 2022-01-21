@@ -64,7 +64,7 @@ const Header = () => {
                 <div className="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                   <ul className="navigation clearfix">
                     <li>
-                      <Link to="/">
+                      <Link to="/index.html">
                         Home
                       </Link>
                     </li>

@@ -38,7 +38,7 @@ const CybersecurityConsultingWhyUs = () => (
       <meta property="twitter:description" content="Improve your competitive advantage by reassuring your customers, partners, investors, and suppliers that the valuable information they provide you will be secure." />
       <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
       <meta property="twitter:site" content="IRM Consulting & Advisory" />
-      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/cybersecurity-consulting-why-us" />
+      <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/cybersecurity-consulting-why-us/" />
     </Helmet>
 
     <section className="page-title-sec" style={{ background: `url(${homepagebanner1})` }}>

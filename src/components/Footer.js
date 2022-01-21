@@ -52,7 +52,7 @@ const Footer = () => {
                   <div className="widget-content">
                     <ul className="list">
                       <li>
-                        <Link to="/">
+                        <Link to="/index.html">
                           Home</Link>
                       </li>
                       <li>
