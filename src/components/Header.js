@@ -52,7 +52,7 @@ const Header = () => {
           </div>
           <div className="main-box clearfix desktop-header">
             <div className="logo-box">
-              <div className="logo"><a href="/"><img width="200px" height="63.27px" src={falogo_irmcebook} alt="cyber security service" title="cyber security service" /></a></div>
+              <div className="logo"><a href="/index.html"><img width="200px" height="63.27px" src={falogo_irmcebook} alt="cyber security service" title="cyber security service" /></a></div>
             </div>
             <div className="nav-outer clearfix">
               <nav className="main-menu navbar-expand-md ">
