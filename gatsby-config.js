@@ -3,12 +3,12 @@ module.exports = {
     siteUrl: `https://elated-swanson-224ee1.netlify.app/`,
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-react-helmet-canonical-urls`,
-      options: {
-        siteUrl: `https://elated-swanson-224ee1.netlify.app`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+    //   options: {
+    //     siteUrl: `https://elated-swanson-224ee1.netlify.app`,
+    //   },
+    // },
     /*
       A package to redirect routes using Netlify.
       Read the plugin docs for more information: https://www.gatsbyjs.com/plugins/gatsby-plugin-netlify/
