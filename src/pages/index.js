@@ -42,7 +42,7 @@ const HomePage = () => {
         <meta property="twitter:description" content="IRM Consulting & Advisory is a boutique cybersecurity business obsessed with implementing security services and security best practices to help create a competitive advantage for SaaS Companies." />
         <meta property="twitter:image" content="https://xgw.394.myftpupload.com/wp-content/uploads/2021/10/irm-logo-social-scaled.jpg" />
         <meta property="twitter:site" content="IRM Consulting & Advisory" />
-        <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app/" />
+        <link rel="canonical" href="https://elated-swanson-224ee1.netlify.app" />
       </Helmet>
 
       <HomeSlider />
