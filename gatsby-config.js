@@ -7,7 +7,7 @@ module.exports = {
       A package to redirect routes using Netlify.
       Read the plugin docs for more information: https://www.gatsbyjs.com/plugins/gatsby-plugin-netlify/
     */
-    // "gatsby-plugin-netlify",
+    "gatsby-plugin-netlify",
     /*
       A package to help integrate page-specific SEO into React App's.
       Read the plugin docs for more information: https://www.gatsbyjs.com/plugins/gatsby-source-filesystem/

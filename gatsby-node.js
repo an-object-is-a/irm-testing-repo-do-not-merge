@@ -7,13 +7,7 @@ exports.createPages = async ({ graphql, actions }) => {
     fromPath: '/index.html',
     isPermanent: false,
     redirectInBrowser: true,
-    toPath: '/blog'
-  });
-  createRedirect({
-    fromPath: '/',
-    isPermanent: false,
-    redirectInBrowser: true,
-    toPath: '/blog'
+    toPath: '/'
   });
   /* 
     This array is used to help auto-generate separate marketplace category pages.
