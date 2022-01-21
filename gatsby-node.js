@@ -2,7 +2,19 @@ const path = require(`path`);
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
-
+  const { createRedirect } = actions;
+  createRedirect({
+    fromPath: '/index.html',
+    isPermanent: false,
+    redirectInBrowser: true,
+    toPath: '/blog'
+  });
+  createRedirect({
+    fromPath: '/',
+    isPermanent: false,
+    redirectInBrowser: true,
+    toPath: '/blog'
+  });
   /* 
     This array is used to help auto-generate separate marketplace category pages.
     Instead of creating ~16 new files manually, looping through this area allows Gatsby to use a template to do it for us.
